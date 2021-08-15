@@ -4,7 +4,7 @@ Parameters:
   CompanyName:
     Description: Company Name
     Type: String
-    Default: acme
+    Default: acmej
   Environment: 
     Description: Environment
     Type: String
